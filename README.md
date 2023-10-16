@@ -6,7 +6,7 @@ TimeBox is currently under development by a team of 7 student engineers and desi
 
 The TimeBox team uses the following technologies:
 - Figma for user flow and wireframe prototyping
-- BitBucket repository for source and version control
+- BitBucket repository for source control
 - Jira for issue tracking and assignment
 - Atlassian Confluence for documentation and project design
 - React Bootstrap framework for frontend
@@ -34,4 +34,4 @@ I used what I had previously learned about buttons and .svg files to code this f
 The dummy event data was previously housed in a frontend .jsx file. To move the dummy data to the backend, I learned about axios html requests and responses to pull the dummy data from an APIView. The next step in this feature is to write models and serializers to house event data in the database.
 ### Database Design
 As we continue to roll out new features, our database design is constantly evolving and changing to accomodate these new features. I am learning about database design, ERDs, and database normalization to design and structure a robust and efficient database.
-![erd](https://github.com/wongd1532/TimeBox/assets/99998284/28ef2449-6bcf-464a-a888-b688f7213ec3)
+![erd](https://github.com/wongd1532/TimeBox/assets/99998284/46a87987-4d7f-4209-a943-102073d05d3f)
