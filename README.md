@@ -6,7 +6,7 @@ TimeBox is currently under development by a team of 7 student engineers and desi
 
 The TimeBox team uses the following technologies:
 - Figma for user flow and wireframe prototyping
-- BitBucket repository for source and version control
+- BitBucket repository for source control
 - Jira for issue tracking and assignment
 - Atlassian Confluence for documentation and project design
 - React Bootstrap framework for frontend
