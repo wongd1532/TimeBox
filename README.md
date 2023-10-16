@@ -29,6 +29,7 @@ I learned about React Bootstrap's grid system, vertical stacks, buttons, and how
 ### Frontend - Create button
 ![calendar - Create](https://github.com/wongd1532/TimeBox/assets/99998284/0cb8ecf3-a0b5-4d1c-9ec2-84622ad04d04)
 I used what I had previously learned about buttons and .svg files to code this feature. I also learned about modals, form, and input to create what will be the basis of TimeBox's command-line interface.
+![calendar - create modal](https://github.com/wongd1532/TimeBox/assets/99998284/967e2a11-fb3f-422c-8dc7-39a490a1ea0b)
 ### FullStack - Moving Frontend Dummy Event Data to Backend (API)
 The dummy event data was previously housed in a frontend .jsx file. To move the dummy data to the backend, I learned about axios html requests and responses to pull the dummy data from an APIView. The next step in this feature is to write models and serializers to house event data in the database.
 ### Database Design
